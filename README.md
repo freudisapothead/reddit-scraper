@@ -1,7 +1,7 @@
 ## Reddit Data Scrapper
 
 > Scrapes data from reddit
-
+a
 <img src="./logo.webp" style="display:inline;padding:3px;box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;"/>
 
 ## Dependencies
